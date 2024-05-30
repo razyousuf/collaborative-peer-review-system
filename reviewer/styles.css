@@ -1,0 +1,39 @@
+	.pdf-page-container { 
+            display: flex; 
+            align-items: flex-start; 
+            margin-bottom: 20px; 
+        }
+        #pdf-render-container { 
+            width: 100%;
+        }
+        .annotations-container { 
+            width: 24%; 
+            padding-left: 0px; 
+        }
+        canvas { 
+            width: 100%;
+            height: auto;
+        }
+        .annotation-input textarea { 
+            width: 120%;
+            height: 80px;
+        }
+		.annotation-input button {
+			width: 100%;
+			padding: 5px;
+			margin-top: 5px;
+		}
+
+		.annotations-list {
+			margin-top: 10px;
+		}
+
+        /* Media Query for responsiveness */
+        @media (max-width: 768px) {
+            .pdf-page-container {
+                flex-direction: column;
+            }
+            #pdf-render-container, .annotations-container {
+                width: 100%;
+            }
+        }

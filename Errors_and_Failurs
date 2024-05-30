@@ -1,0 +1,8 @@
+This file is to track errors and issues that are yet to be solved.
+==================================================================
+
+1- login background should be nice
+2- the Delete option on administration page should check the admin counts and if the selected admin is the only one, so cancel the delete operation because it's the only admin.
+3- the cards on dashboard should be clickable
+4- 
+
