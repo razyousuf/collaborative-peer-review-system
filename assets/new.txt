@@ -1,1 +1,2 @@
 
+Please extract the contents of the `assets.zip` directly inside this directory.
