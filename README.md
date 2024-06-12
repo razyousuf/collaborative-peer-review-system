@@ -43,7 +43,7 @@ To install SCPRS, follow these steps:
    ```bash
    git clone https://github.com/yourusername/SCPRS.git
    cd SCPRS
-  ```
+   ```
 2. **Set Up Database**
   * Start XAMPP and ensure Apache and MySQL are running.
   * Open [phpMyAdmin](http://localhost/phpmyadmin) and create a new database named `scprs`.
@@ -57,17 +57,17 @@ To install SCPRS, follow these steps:
     - Open the file `db_connect.php`.
     - Update the file with your database credentials:
   
-     ```php
+     ```
      <?php
-$conn= new mysqli(
-                 'localhost',
-                 'root',
-                 '',
-                 'sprs')
+          $conn= new mysqli(
+                   'localhost',
+                   'root',
+                   '',
+                   'sprs')
      ?>
-    ```
+     ```
 
-4. **Run the Application
+4. **Run the Application**
     - Move the project folder to the htdocs directory in your XAMPP installation.
     - Open your web browser and navigate to http://localhost/SCPRS.
 
@@ -75,7 +75,7 @@ $conn= new mysqli(
 ### Usage
 Once the application is running, you can access it through your web browser. Here’s a quick guide to getting started:
 
-1. **Login with the Admin Account (username: admin, password: 123) and create some new users with type 2 (reviewer). 
+1. **Login and Create Account:** (username: admin, password: 123) and create some new users with type 2 (reviewer). 
 2. **Create a Review Group:** Set up a group for your class or research team.
 3. **Submit Your Paper:** Upload your research paper or for review.
 4. **Share Your Paper:** Share the paper with your group, or specific reviewer
@@ -86,9 +86,9 @@ Once the application is running, you can access it through your web browser. Her
 To contribute to SCPRS, follow these steps:
 
 1. **Fork the Repository**
-   ```bash
+ ```
    git fork https://github.com/yourusername/SCPRS.git
-  ```
+ ```
 
 2. **Create a Feature Branch**
    ```
@@ -105,7 +105,7 @@ To contribute to SCPRS, follow these steps:
 6. **Create a Pull Request**
   - Submit your pull request for review.
 
-###Contact
+### Contact
 If you have any questions or need further assistance, please contact us at:
   * Email: support@scprs.com
   * Twitter: @SCPRS
