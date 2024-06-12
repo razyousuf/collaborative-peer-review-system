@@ -46,11 +46,11 @@ To install SCPRS, follow these steps:
    ```
 2. **Set Up Database**
   * Start XAMPP and ensure Apache and MySQL are running.
-  * Open [phpMyAdmin](http://localhost/phpmyadmin) and create a new database named `scprs`.
-  * Import the `scprs.sql` file located in the `database` folder into your newly created database:
-     - In phpMyAdmin, select the `scprs` database.
+  * Open [phpMyAdmin](http://localhost/phpmyadmin) and create a new database named `sprs`.
+  * Import the `sprs.sql` file located in the `database` folder into your newly created database:
+     - In phpMyAdmin, select the `sprs` database.
      - Click on the `Import` tab.
-     - Click `Choose File` and select the `scprs.sql` file from the `database` folder.
+     - Click `Choose File` and select the `sprs.sql` file from the `database` folder.
      - Click `Go` to import the database structure and data.
 
 3. **Configure Environment**
@@ -59,17 +59,13 @@ To install SCPRS, follow these steps:
   
      ```
      <?php
-          $conn= new mysqli(
-                   'localhost',
-                   'root',
-                   '',
-                   'sprs')
+        $conn= new mysqli('localhost','root','','sprs')
      ?>
      ```
 
 4. **Run the Application**
     - Move the project folder to the htdocs directory in your XAMPP installation.
-    - Open your web browser and navigate to http://localhost/SCPRS.
+    - Open your web browser and navigate to http://localhost/sprs.
 
 
 ### Usage
@@ -87,7 +83,7 @@ To contribute to SCPRS, follow these steps:
 
 1. **Fork the Repository**
  ```
-   git fork https://github.com/yourusername/SCPRS.git
+   git fork https://github.com/razyousuf/Collaborative-Peer-Review-System.git
  ```
 
 2. **Create a Feature Branch**
@@ -107,9 +103,9 @@ To contribute to SCPRS, follow these steps:
 
 ### Contact
 If you have any questions or need further assistance, please contact us at:
-  * Email: support@scprs.com
-  * Twitter: @SCPRS
-  * GitHub Issues: GitHub Issues
+  * Email: razyousufi350@gmail.com
+  * Linkedin: www.linkedin.com/in/raz-y-0998492a3
+  * GitHub Issues: razyousufi350@gmail.com
 
 We appreciate your feedback and contributions to the Student Collaborative Peer Review System (SCPRS)!
 
