@@ -41,7 +41,7 @@ To install SCPRS, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/SCPRS.git
+   git clone https://github.com/razyousuf/Collaborative-Peer-Review-System.git
    cd SCPRS
    ```
 2. **Set Up Database**
