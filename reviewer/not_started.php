@@ -1,5 +1,5 @@
 <div class="container-fluid">
-	<p>Evaluation is not yet starting.</p>
+	<p>Evaluation is yet to be started.</p>
 </div>
 <div class="modal-footer display p-0 m-0">
         <a href="./index.php" class="btn btn-primary bg-gradient-primary">Home</a>
