@@ -41,7 +41,7 @@ To install SCPRS, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/razyousuf/Collaborative-Peer-Review-System.git
+   git clone https://github.com/razyousuf/scprs.git
    cd SCPRS
    ```
 2. **Set Up Database**
@@ -90,7 +90,7 @@ To contribute to SCPRS, follow these steps:
 
 1. **Fork the Repository**
  ```
-   git fork https://github.com/razyousuf/Collaborative-Peer-Review-System.git
+   git fork https://github.com/razyousuf/scprs.git
  ```
 
 2. **Create a Feature Branch**
