@@ -81,7 +81,7 @@ Once the application is running, you can access it through your web browser. Her
 7. **Share Your Paper:** Share the paper with your group, or specific reviewer
   ![Share Paper](images/22_author.png "Share Paper")
 9. **Review Peers:** Engage in peer review using the provided rubrics.
-  ![Review Paper](images/32_review.png "Review Paper")
+  ![Review Paper](images/32_review.jpg "Review Paper")
 11. **Receive Feedback:** View and respond to feedback from your peers.
   ![Receive Feedback](images/23_author.png "receive Feedback")
 
