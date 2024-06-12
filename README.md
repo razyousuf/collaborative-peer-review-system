@@ -73,7 +73,7 @@ To install SCPRS, follow these steps:
 Once the application is running, you can access it through your web browser. Here’s a quick guide to getting started:
 
 1. **Login and Create Account:** (username: admin, password: 123) and create some new users with type 2 (reviewer).
-   ![Users Management](images/12_admin.png "Users Management")
+   ![Users Management](images/12_admin.jpg "Users Management")
 3. **Create a Review Group:** Set up a group for your class or research team.
   ![Group Management](images/14_admin.png "Reviewrs Group Management")
 5. **Submit Your Paper:** Upload your research paper or for review.
