@@ -42,7 +42,7 @@ To install SCPRS, follow these steps:
 
    ```bash
    git clone https://github.com/razyousuf/scprs.git
-   cd SCPRS
+   cd scprs
    ```
 2. **Set Up Database**
   * Start XAMPP and ensure Apache and MySQL are running.
