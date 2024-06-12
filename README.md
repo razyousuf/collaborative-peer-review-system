@@ -72,12 +72,13 @@ To install SCPRS, follow these steps:
 ### Usage
 Once the application is running, you can access it through your web browser. Here’s a quick guide to getting started:
 
-1. **Login and Create Account:** (username: admin, password: 123) and create some new users with type 2 (reviewer). 
-2. **Create a Review Group:** Set up a group for your class or research team.
-3. **Submit Your Paper:** Upload your research paper or for review.
-4. **Share Your Paper:** Share the paper with your group, or specific reviewer
-5. **Review Peers:** Engage in peer review using the provided rubrics.
-6. **Receive Feedback:** View and respond to feedback from your peers.
+1. **Login and Create Account:** (username: admin, password: 123) and create some new users with type 2 (reviewer).
+   ![Python Run-time](Images/python_run_time.png "Python Run-time")
+3. **Create a Review Group:** Set up a group for your class or research team.
+4. **Submit Your Paper:** Upload your research paper or for review.
+5. **Share Your Paper:** Share the paper with your group, or specific reviewer
+6. **Review Peers:** Engage in peer review using the provided rubrics.
+7. **Receive Feedback:** View and respond to feedback from your peers.
 
 ### Contributing
 To contribute to SCPRS, follow these steps:
