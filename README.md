@@ -47,6 +47,7 @@ To install SCPRS, follow these steps:
 2. **Set Up Database**
   * Start XAMPP and ensure Apache and MySQL are running.
   * Open [phpMyAdmin](http://localhost/phpmyadmin) and create a new database named `sprs`.
+  * Open the database in an editor like notepad++ and verify/or replace the collate suitable for your DBMS versoin (now the collate is set to the `utf8mb4_unicode_520_ci`).
   * Import the `sprs.sql` file located in the `database` folder into your newly created database:
      - In phpMyAdmin, select the `sprs` database.
      - Click on the `Import` tab.
