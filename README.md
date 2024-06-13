@@ -24,7 +24,7 @@ The Student Collaborative Peer Review System (SCPRS) is designed to transform th
 - **Structured Rubrics**: Utilize comprehensive rubrics for consistent and thorough evaluations.
 - **Interactive Feedback**: Facilitate discussions between reviewers and authors for deeper insights.
 - **User-Friendly Interface**: Easy-to-use platform designed with students in mind.
-- **Scalable Solution**: Efficiently manage peer reviews for a large number of students and diverse research topics.
+- **Scalable Solution**: Efficiently manage peer reviews for a large number of students.
 
 ## Getting Started
 
