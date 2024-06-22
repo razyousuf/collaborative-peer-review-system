@@ -76,13 +76,13 @@ Once the application is running, you can access it through your web browser. Her
    ![Users Management](images/12_admin.jpg "Users Management")
 3. **Create a Review Group:** Set up a group for your class or research team.
   ![Group Management](images/14_admin.png "Reviewrs Group Management")
-5. **Submit Your Paper:** Upload your research paper or for review.
+5. **Submit Your Paper:** Upload your research paper or thesis for review.
   ![Paper Management](images/21_author.png "Paper Management")
-7. **Share Your Paper:** Share the paper with your group, or specific reviewer
+7. **Share Your Paper:** Share the paper with your group or a specific reviewer(s)
   ![Share Paper](images/22_author.png "Share Paper")
 9. **Review Peers:** Engage in peer review using the provided rubrics.
   ![Review Paper](images/32_review.jpg "Review Paper")
-11. **Receive Feedback:** View and respond to feedback from your peers.
+11. **Receive Feedback:** View- or respond to feedbacks received from your peers.
   ![Receive Feedback](images/23_author.png "receive Feedback")
 
 ### Contributing
@@ -115,5 +115,6 @@ If you have any questions or need further assistance, please contact us at:
   * GitHub Issues: razyousufi350@gmail.com
 
 We appreciate your feedback and contributions to the Student Collaborative Peer Review System (SCPRS)!
-
 Thank you for using SCPRS. Together, we can make academic peer review more collaborative, inclusive, and effective!
+
+**acknowledgement:** Thanks to Liverpool Hope University for financial- and non-financial supports towards completion of this project.
