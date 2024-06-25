@@ -117,4 +117,4 @@ If you have any questions or need further assistance, please contact us at:
 We appreciate your feedback and contributions to the Student Collaborative Peer Review System (SCPRS)!
 Thank you for using SCPRS. Together, we can make academic peer review more collaborative, inclusive, and effective!
 
-**acknowledgement:** Thanks to ![Liverpool Hope University](https://www.hope.ac.uk/) for financial- and non-financial supports towards completion of this project.
+**acknowledgement:** Special thanks to Dr. Kapil Dev and Dr. Neil Buckley for their insightful guidance and comments throughout the project. Also, thanks to [Liverpool Hope University](https://www.hope.ac.uk/) for financial- and non-financial supports towards completion of this project.
