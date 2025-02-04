@@ -112,7 +112,7 @@ To contribute to SCPRS, follow these steps:
 If you have any questions or need further assistance, please contact us at:
   * Email: razyousufi350@gmail.com
   * Linkedin: www.linkedin.com/in/raz-y-0998492a3
-  * GitHub Issues: razyousufi350@gmail.com
+  * GitHub Issues: [https://github.com/razyousuf/](https://github.com/razyousuf/)
 
 We appreciate your feedback and contributions to the Student Collaborative Peer Review System (SCPRS)!
 Thank you for using SCPRS. Together, we can make academic peer review more collaborative, inclusive, and effective!
